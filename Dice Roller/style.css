@@ -1,0 +1,10 @@
+.dices {
+  display: flex;
+  text-align: center;
+}
+.dice {
+  margin: 5%;
+}
+img {
+  width: 50%;
+}
